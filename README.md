@@ -6,6 +6,10 @@ My main focus is **Sera AI**, a modular conversational AI system that connects m
 
 ## Featured Projects
 
+### [Inventory Management Showcase](https://github.com/Patini789/Inventory-Management-Showcase)
+
+A role-based Django inventory and workshop management system with stock tracking, product recipes, purchase workflows and production orders.
+
 ### [Sera AI](https://github.com/Patini789/sera-ai)
 
 An extensible AI assistant framework with long-term memory, multiple model backends, voice features, Discord support, web UI, and Godot integrations.
